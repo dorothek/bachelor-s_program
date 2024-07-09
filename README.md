@@ -54,4 +54,4 @@ These values, along with the path where the decoded file is to be saved, are pas
 the length of the original sequence) and the start value (x0) is set as an auxiliary variable in the process of decoding the sequence represented by a specific number. Then, in a for loop, each code on the code list is processed. 
 In the decodingS() function, it is determined whether the next decoded symbol is 0 or 1, while calling the decodingX() function determines the value of x after decoding the next symbol of the sequence. 
 Decoded parts of the sequence are saved to the outList variable and then concatenated into a string format variable. The entire decoded sequence is then written to the file using the write_into_binary_file() function.
-The program handles small files well. Its operation was tested on files up to 50KB in size. For larger files, the program completes correctly, but it requires more time.**
+The program handles small files well. Its operation was tested on files up to 50KB in size. For larger files, the program completes correctly, but it requires more time.
