@@ -1,5 +1,7 @@
-(ENGLISH VERSION BELOW)
+uABS coding
 ----------------------
+(ENGLISH VERSION BELOW)
+
 [PL]
 Aby przybliżyć czytelnikowi sposób działania algorytmu kodowania uABS powstał program przy pomocy którego użytkownik może samodzielnie zakodować plik lub odkodować wcześniej zakodowany plik. 
 Ponadto zostały napisane testy wykazujące poprawność działania implementowanego algorytmu uABS.
